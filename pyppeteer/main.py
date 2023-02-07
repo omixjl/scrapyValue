@@ -24,12 +24,11 @@ asics = []
 asic_rows = soup.select("tbody tr")
 
 for asic in asic_rows:
-    modelo = asic.select_one("td:nth-of-type(1) div div a span:nth-of-type(1)").text
-    modelo += " " + asic.select_one("td:nth-of-type(1) div div a span:nth-of-type(2)").text
+    modelo = asic.select_one("td:nth-of-type(1) div div a span:nth-of-type(1)").text +  " " + asic.select_one("td:nth-of-type(1) div div a span:nth-of-type(2)").text
     hashrate = asic.select_one("td:nth-of-type(3) div span:nth-of-type(1)").text
     hashrate += asic.select_one("td:nth-of-type(3) div span:nth-of-type(2)").text
     algoritmo = asic.select_one("td:nth-of-type(6) div").text
-    rentabilidad = (asic.select_one("td:nth-of-type(7) div div span:nth-child(1)").text or '') + (asic_row.select_one("td:nth-of-type(7) div div span:nth-child(2)").text or '')
+    rentabilidad = (asic.select_one("td:nth-of-type(7) div div span:nth-child(1)").text or '') + (asic.select_one("td:nth-of-type(7) div div span:nth-child(2)").text or '')
 
     asics.append({
         "modelo": modelo,
