@@ -1,0 +1,290 @@
+{"modelo": "Bitmain Antminer KA3 (166Th)", "hashrate": " 166Th/s", "algoritmo": "Kadena", "rentabilidad": " $40.57/day"}
+{"modelo": "Bitmain Antminer K7 (63.5Th)", "hashrate": " 63.5Th/s", "algoritmo": "Eaglesong", "rentabilidad": " $22.03/day"}
+{"modelo": "Bitmain Antminer L7 (9.5Gh)", "hashrate": " 9.5Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $16.85/day"}
+{"modelo": "Bitmain Antminer L7 (9.3Gh)", "hashrate": " 9.3Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $16.29/day"}
+{"modelo": "Bitmain Antminer L7 (9.16Gh)", "hashrate": " 9.16Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $15.90/day"}
+{"modelo": "Bitmain Antminer L7 (9.05Gh)", "hashrate": " 9.05Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $15.59/day"}
+{"modelo": "Bitmain Antminer L7 (8.8Gh)", "hashrate": " 8.8Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $14.88/day"}
+{"modelo": "iBeLink BM-K3", "hashrate": " 70Th/s", "algoritmo": "Kadena", "rentabilidad": " $11.43/day"}
+{"modelo": "Bitmain Antminer HS3 (9Th)", "hashrate": " 9Th/s", "algoritmo": "Handshake", "rentabilidad": " $10.79/day"}
+{"modelo": "Bitmain Antminer D7 (1286Gh)", "hashrate": " 1.286Th/s", "algoritmo": "X11", "rentabilidad": " $9.05/day"}
+{"modelo": "iPollo G1", "hashrate": " 36GPS", "algoritmo": "Cuckatoo32", "rentabilidad": " $6.39/day"}
+{"modelo": "Goldshell SC6-SE", "hashrate": " 17Th/s", "algoritmo": "Blake2B-Sia", "rentabilidad": " $5.05/day"}
+{"modelo": "Bitmain Antminer S19 XP Hyd (255Th)", "hashrate": " 255Th/s", "algoritmo": "SHA-256", "rentabilidad": " $4.34/day"}
+{"modelo": "Bitmain Antminer E9 Pro (3.68Gh)", "hashrate": " 3.68Gh/s", "algoritmo": "EtHash", "rentabilidad": " $3.94/day"}
+{"modelo": "Jasminer X4", "hashrate": " 2.5Gh/s", "algoritmo": "EtHash", "rentabilidad": " $3.52/day"}
+{"modelo": "Jasminer X16-Q", "hashrate": " 1.845Gh/s", "algoritmo": "EtHash", "rentabilidad": " $3.34/day"}
+{"modelo": "iBeLink BM-N3", "hashrate": " 25Th/s", "algoritmo": "Eaglesong", "rentabilidad": " $2.66/day"}
+{"modelo": "Goldshell HS6", "hashrate": " 4.3Th/s", "algoritmo": "2 ", "rentabilidad": " $2.59/day"}
+{"modelo": "Goldshell KD Max", "hashrate": " 40.2Th/s", "algoritmo": "Kadena", "rentabilidad": " $2.38/day"}
+{"modelo": "ForestMiner EPU XC", "hashrate": " 4.25Gh/s", "algoritmo": "EtHash", "rentabilidad": " $2.32/day"}
+{"modelo": "Bitmain Antminer S19 XP (140Th)", "hashrate": " 140Th/s", "algoritmo": "SHA-256", "rentabilidad": " $2.10/day"}
+{"modelo": "Jasminer X4-Q", "hashrate": " 1.04Gh/s", "algoritmo": "EtHash", "rentabilidad": " $1.52/day"}
+{"modelo": "Bitmain Antminer Z15", "hashrate": " 420ksol/s", "algoritmo": "Equihash", "rentabilidad": " $1.40/day"}
+{"modelo": "Goldshell KD6", "hashrate": " 29.2Th/s", "algoritmo": "Kadena", "rentabilidad": " $1.36/day"}
+{"modelo": "Goldshell HS6-SE", "hashrate": " 3.7Th/s", "algoritmo": "2 ", "rentabilidad": " $1.26/day"}
+{"modelo": "iBeLink BM-S1 Max", "hashrate": " 12Th/s", "algoritmo": "Blake2B-Sia", "rentabilidad": " $1.20/day"}
+{"modelo": "Bitmain Antminer E9 (2.4Gh)", "hashrate": " 2.4Gh/s", "algoritmo": "EtHash", "rentabilidad": " $1.17/day"}
+{"modelo": "iPollo V1", "hashrate": " 3.6Gh/s", "algoritmo": "EtHash", "rentabilidad": " $1.12/day"}
+{"modelo": "Goldshell KD Lite", "hashrate": " 16.2Th/s", "algoritmo": "Kadena", "rentabilidad": " $1.02/day"}
+{"modelo": "Baikal BK-G28", "hashrate": " 28Gh/s", "algoritmo": "8 ", "rentabilidad": " $0.98/day"}
+{"modelo": "Goldshell KD6-SE", "hashrate": " 25.3Th/s", "algoritmo": "Kadena", "rentabilidad": " $0.94/day"}
+{"modelo": "Jasminer X4-1U", "hashrate": " 520Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.76/day"}
+{"modelo": "iPollo V1 Classic", "hashrate": " 1.55Gh/s", "algoritmo": "EtHash", "rentabilidad": " $0.76/day"}
+{"modelo": "Goldshell ST-BOX", "hashrate": " 13.92kh/s", "algoritmo": "CryptoNightR", "rentabilidad": " $0.68/day"}
+{"modelo": "Canaan Avalon Made A1366", "hashrate": " 130Th/s", "algoritmo": "SHA-256", "rentabilidad": " $0.64/day"}
+{"modelo": "Jasminer X4-C 1U", "hashrate": " 450Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.56/day"}
+{"modelo": "Goldshell HS3", "hashrate": " 2Th/s", "algoritmo": "2 ", "rentabilidad": " $0.54/day"}
+{"modelo": "Goldshell HS Lite", "hashrate": " 1.36Th/s", "algoritmo": "2 ", "rentabilidad": " $0.47/day"}
+{"modelo": "iPollo V1 Mini SE Plus", "hashrate": " 400Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.45/day"}
+{"modelo": "Goldshell LT Lite", "hashrate": " 1.62Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $0.38/day"}
+{"modelo": "iBeLink BM-K1 Max", "hashrate": " 32Th/s", "algoritmo": "Kadena", "rentabilidad": " $0.36/day"}
+{"modelo": "Goldshell KD-BOX 2", "hashrate": " 5Th/s", "algoritmo": "2 ", "rentabilidad": " $0.34/day"}
+{"modelo": "MicroBT WhatsMiner M56S", "hashrate": " 212Th/s", "algoritmo": "SHA-256", "rentabilidad": " $0.32/day"}
+{"modelo": "Goldshell HS5", "hashrate": " 2.7Th/s", "algoritmo": "2 ", "rentabilidad": " $0.30/day"}
+{"modelo": "MicroBT Whatsminer M50S", "hashrate": " 126Th/s", "algoritmo": "SHA-256", "rentabilidad": " $0.26/day"}
+{"modelo": "iPollo V1 Mini SE", "hashrate": " 200Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.22/day"}
+{"modelo": "Baikal BK-X", "hashrate": " 10Gh/s", "algoritmo": "8 ", "rentabilidad": " $0.21/day"}
+{"modelo": "Goldshell LT6", "hashrate": " 3.35Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $0.20/day"}
+{"modelo": "Goldshell SC-BOX", "hashrate": " 900Gh/s", "algoritmo": "Blake2B-Sia", "rentabilidad": " $0.19/day"}
+{"modelo": "Goldshell HS3-SE", "hashrate": " 930Gh/s", "algoritmo": "2 ", "rentabilidad": " $0.15/day"}
+{"modelo": "iPollo V1 Mini", "hashrate": " 300Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.15/day"}
+{"modelo": "Innosilicon A6+ LTCMaster", "hashrate": " 2.2Gh/s", "algoritmo": "Scrypt", "rentabilidad": " $0.14/day"}
+{"modelo": "iPollo G1 Mini", "hashrate": " 1.2GPS", "algoritmo": "Cuckatoo32", "rentabilidad": " $0.14/day"}
+{"modelo": "Goldshell KD-BOX Pro", "hashrate": " 2.6Th/s", "algoritmo": "Kadena", "rentabilidad": " $0.12/day"}
+{"modelo": "Jasminer X4 BRICK", "hashrate": " 65Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.10/day"}
+{"modelo": "iPollo V1 Mini Classic", "hashrate": " 130Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.06/day"}
+{"modelo": "Goldshell HS-BOX", "hashrate": " 235Gh/s", "algoritmo": "2 ", "rentabilidad": " $0.03/day"}
+{"modelo": "Dayun Zig M1", "hashrate": " 2.611Gh/s", "algoritmo": "5 ", "rentabilidad": " $0.01/day"}
+{"modelo": "iPollo V1 Mini Classic Plus", "hashrate": " 280Mh/s", "algoritmo": "EtHash", "rentabilidad": " $0.00/day"}
+{"modelo": "Goldshell CK-BOX 2", "hashrate": " 2.1Th/s", "algoritmo": "2 ", "rentabilidad": " $0.00/day"}
+{"modelo": "Goldshell LB1", "hashrate": " 87Gh/s", "algoritmo": "Lbry", "rentabilidad": " -$0.03/day"}
+{"modelo": "Goldshell Mini-DOGE Pro", "hashrate": " 205Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.06/day"}
+{"modelo": "Baikal Mini Miner", "hashrate": " 150Mh/s", "algoritmo": "6 ", "rentabilidad": " -$0.07/day"}
+{"modelo": "Goldshell LB-BOX", "hashrate": " 175Gh/s", "algoritmo": "Lbry", "rentabilidad": " -$0.07/day"}
+{"modelo": "Goldshell CK-BOX", "hashrate": " 1.05Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$0.11/day"}
+{"modelo": "Goldshell CK6", "hashrate": " 19.3Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$0.11/day"}
+{"modelo": "Goldshell KD-BOX", "hashrate": " 1.6Th/s", "algoritmo": "Kadena", "rentabilidad": " -$0.11/day"}
+{"modelo": "Goldshell HS1-PLUS", "hashrate": " 105Gh/s", "algoritmo": "Handshake", "rentabilidad": " -$0.14/day"}
+{"modelo": "StrongU STU-U6", "hashrate": " 440Gh/s", "algoritmo": "X11", "rentabilidad": " -$0.14/day"}
+{"modelo": "Baikal Miner Cube", "hashrate": " 300Mh/s", "algoritmo": "6 ", "rentabilidad": " -$0.14/day"}
+{"modelo": "Goldshell Mini-DOGE", "hashrate": " 185Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.15/day"}
+{"modelo": "Baikal BK-N", "hashrate": " 20kh/s", "algoritmo": "2 ", "rentabilidad": " -$0.16/day"}
+{"modelo": "Goldshell X5", "hashrate": " 850Mh/s", "algoritmo": "3 ", "rentabilidad": " -$0.21/day"}
+{"modelo": "Goldshell LT5", "hashrate": " 2.05Gh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.23/day"}
+{"modelo": "Baikal BK-B", "hashrate": " 160Gh/s", "algoritmo": "5 ", "rentabilidad": " -$0.23/day"}
+{"modelo": "Baikal Quadruple Mini Miner", "hashrate": " 600Mh/s", "algoritmo": "6 ", "rentabilidad": " -$0.28/day"}
+{"modelo": "Bitmain Antminer S19j Pro+ (122Th)", "hashrate": " 122Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.28/day"}
+{"modelo": "Baikal BK-N+", "hashrate": " 40kh/s", "algoritmo": "2 ", "rentabilidad": " -$0.31/day"}
+{"modelo": "Baikal Giant A900", "hashrate": " 900Mh/s", "algoritmo": "6 ", "rentabilidad": " -$0.37/day"}
+{"modelo": "Goldshell CK Lite", "hashrate": " 6.3Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$0.39/day"}
+{"modelo": "FusionSilicon X7 Miner", "hashrate": " 262Gh/s", "algoritmo": "X11", "rentabilidad": " -$0.40/day"}
+{"modelo": "Innosilicon A4+ LTCMaster", "hashrate": " 620Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.42/day"}
+{"modelo": "Innosilicon A8C CryptoMaster", "hashrate": " 80kh/s", "algoritmo": "CryptoNight", "rentabilidad": " -$0.44/day"}
+{"modelo": "Bitmain Antminer S19 Pro+ Hyd (198Th)", "hashrate": " 198Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.45/day"}
+{"modelo": "FFMiner Decred D18", "hashrate": " 340Gh/s", "algoritmo": "Blake256R14", "rentabilidad": " -$0.49/day"}
+{"modelo": "Goldshell LB Lite", "hashrate": " 1.62Th/s", "algoritmo": "Lbry", "rentabilidad": " -$0.51/day"}
+{"modelo": "Goldshell X5S", "hashrate": " 1.36Gh/s", "algoritmo": "2 ", "rentabilidad": " -$0.51/day"}
+{"modelo": "Baikal BK-N70", "hashrate": " 70kh/s", "algoritmo": "2 ", "rentabilidad": " -$0.58/day"}
+{"modelo": "Goldshell KD2", "hashrate": " 6Th/s", "algoritmo": "Kadena", "rentabilidad": " -$0.60/day"}
+{"modelo": "Baikal Giant+ A2000", "hashrate": " 2Gh/s", "algoritmo": "6 ", "rentabilidad": " -$0.68/day"}
+{"modelo": "FusionSilicon X6 Miner", "hashrate": " 860Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.69/day"}
+{"modelo": "Bitmain Antminer Z9 Mini", "hashrate": " 10ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$0.73/day"}
+{"modelo": "MicroBT Whatsminer M50", "hashrate": " 114Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.75/day"}
+{"modelo": "Innosilicon A10 ETHMaster (500Mh)", "hashrate": " 500Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$0.76/day"}
+{"modelo": "Bitmain Antminer S19j Pro (96Th)", "hashrate": " 96Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.77/day"}
+{"modelo": "iBeLink BM-K1", "hashrate": " 5.3Th/s", "algoritmo": "Kadena", "rentabilidad": " -$0.82/day"}
+{"modelo": "Obelisk SC1 Slim", "hashrate": " 550Gh/s", "algoritmo": "2 ", "rentabilidad": " -$0.83/day"}
+{"modelo": "Bitmain Antminer S19j Pro (104Th)", "hashrate": " 104Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.84/day"}
+{"modelo": "Innosilicon A6 LTCMaster", "hashrate": " 1.23Gh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.86/day"}
+{"modelo": "Innosilicon A8 CryptoMaster", "hashrate": " 160kh/s", "algoritmo": "CryptoNight", "rentabilidad": " -$0.88/day"}
+{"modelo": "Bitmain Antminer L3+ (504Mh)", "hashrate": " 504Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.89/day"}
+{"modelo": "Bitmain Antminer S19 Pro (110Th)", "hashrate": " 110Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$0.90/day"}
+{"modelo": "Bitmain Antminer L3+ (600Mh)", "hashrate": " 600Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$0.93/day"}
+{"modelo": "iBeLink BM-S1", "hashrate": " 6.8Th/s", "algoritmo": "Blake2B-Sia", "rentabilidad": " -$0.95/day"}
+{"modelo": "Obelisk SC1", "hashrate": " 550Gh/s", "algoritmo": "2 ", "rentabilidad": " -$0.97/day"}
+{"modelo": "PinIdea RR-210", "hashrate": " 30kh/s", "algoritmo": "2 ", "rentabilidad": " -$0.98/day"}
+{"modelo": "PinIdea DR-3", "hashrate": " 600Mh/s", "algoritmo": "X11", "rentabilidad": " -$0.99/day"}
+{"modelo": "PinIdea RR-200", "hashrate": " 27kh/s", "algoritmo": "2 ", "rentabilidad": " -$0.99/day"}
+{"modelo": "Bitmain Antminer S3", "hashrate": " 478Gh/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.02/day"}
+{"modelo": "Bitmain Antminer B3 (780Hz)", "hashrate": " 780h/s", "algoritmo": "Tensority", "rentabilidad": ""}
+{"modelo": "Canaan Avalon Made A1346", "hashrate": " 110Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.04/day"}
+{"modelo": "MicroBT WhatsMiner M56", "hashrate": " 194Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.06/day"}
+{"modelo": "Goldshell CK5", "hashrate": " 12Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$1.07/day"}
+{"modelo": "Bitmain Antminer L3++ (580Mh)", "hashrate": " 580Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$1.08/day"}
+{"modelo": "Bitmain Antminer S19j Pro (100Th)", "hashrate": " 100Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.09/day"}
+{"modelo": "Bitmain Antminer B3 (1Kh)", "hashrate": " 1kh/s", "algoritmo": "Tensority", "rentabilidad": ""}
+{"modelo": "Goldshell KD5", "hashrate": " 18Th/s", "algoritmo": "Kadena", "rentabilidad": " -$1.10/day"}
+{"modelo": "Innosilicon A9 ZMaster", "hashrate": " 50ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$1.10/day"}
+{"modelo": "Bitmain Antminer S15 (28Th)", "hashrate": " 28Th/s", "algoritmo": "2 ", "rentabilidad": " -$1.14/day"}
+{"modelo": "Bitmain Antminer X3 (220Kh)", "hashrate": " 220kh/s", "algoritmo": "CryptoNight", "rentabilidad": " -$1.16/day"}
+{"modelo": "Innosilicon A8+ CryptoMaster", "hashrate": " 240kh/s", "algoritmo": "CryptoNight", "rentabilidad": " -$1.19/day"}
+{"modelo": "BW L21", "hashrate": " 550Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$1.19/day"}
+{"modelo": "Goldshell CK6-SE", "hashrate": " 17Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$1.23/day"}
+{"modelo": "Goldshell KD5 Pro", "hashrate": " 24.5Th/s", "algoritmo": "Kadena", "rentabilidad": " -$1.31/day"}
+{"modelo": "Obelisk DCR1", "hashrate": " 1.2Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$1.35/day"}
+{"modelo": "Bitmain Antminer L3++ (596Mh)", "hashrate": " 596Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$1.35/day"}
+{"modelo": "Innosilicon A10 Pro ETH (500Mh)", "hashrate": " 500Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$1.37/day"}
+{"modelo": "MicroBT Whatsminer M30S++", "hashrate": " 112Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.39/day"}
+{"modelo": "Bitmain Antminer S19 Pro Hyd (177Th)", "hashrate": " 177Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.42/day"}
+{"modelo": "Bitmain Antminer B7 (96Kh)", "hashrate": " 96kh/s", "algoritmo": "Tensority", "rentabilidad": ""}
+{"modelo": "Bitmain Antminer S5", "hashrate": " 1.155Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.61/day"}
+{"modelo": "Obelisk SC1 Dual", "hashrate": " 1.1Th/s", "algoritmo": "2 ", "rentabilidad": " -$1.65/day"}
+{"modelo": "Bitmain Antminer E3 (190Mh)", "hashrate": " 190Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$1.66/day"}
+{"modelo": "Baikal BK-N240", "hashrate": " 240kh/s", "algoritmo": "2 ", "rentabilidad": " -$1.68/day"}
+{"modelo": "Innosilicon A5 DashMaster", "hashrate": " 32.5Gh/s", "algoritmo": "X11", "rentabilidad": " -$1.70/day"}
+{"modelo": "Bitmain Antminer R4", "hashrate": " 8.7Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.76/day"}
+{"modelo": "Innosilicon A10 Pro+ ETH (750Mh)", "hashrate": " 750Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$1.79/day"}
+{"modelo": "Bitmain Antminer S7-LN", "hashrate": " 2.7Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.80/day"}
+{"modelo": "Bitmain Antminer E3 (180Mh)", "hashrate": " 180Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$1.80/day"}
+{"modelo": "Bitmain Antminer S17 Pro (50Th)", "hashrate": " 50Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.84/day"}
+{"modelo": "Baikal BK-D", "hashrate": " 320Gh/s", "algoritmo": "4 ", "rentabilidad": " -$1.87/day"}
+{"modelo": "Bitmain Antminer T15 (23Th)", "hashrate": " 23Th/s", "algoritmo": "2 ", "rentabilidad": " -$1.92/day"}
+{"modelo": "Bitmain Antminer DR5 (35Th)", "hashrate": " 35Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$1.94/day"}
+{"modelo": "Bitmain Antminer S17 Pro (53Th)", "hashrate": " 53Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$1.95/day"}
+{"modelo": "iBeLink BM-K1+", "hashrate": " 15Th/s", "algoritmo": "Kadena", "rentabilidad": " -$1.99/day"}
+{"modelo": "iBeLink DM22G", "hashrate": " 22Gh/s", "algoritmo": "X11", "rentabilidad": " -$2.02/day"}
+{"modelo": "Goldshell LT5 Pro", "hashrate": " 2.45Gh/s", "algoritmo": "Scrypt", "rentabilidad": " -$2.04/day"}
+{"modelo": "Bitmain Antminer S19 (95Th)", "hashrate": " 95Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.05/day"}
+{"modelo": "MicroBT Whatsminer M30S+", "hashrate": " 100Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.10/day"}
+{"modelo": "iBeLink DM11G", "hashrate": " 10.8Gh/s", "algoritmo": "X11", "rentabilidad": " -$2.18/day"}
+{"modelo": "Bitmain Antminer Z9", "hashrate": " 42ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$2.22/day"}
+{"modelo": "Pantech SX6", "hashrate": " 8.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.23/day"}
+{"modelo": "Bitmain Antminer Z11", "hashrate": " 135ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$2.24/day"}
+{"modelo": "Innosilicon A4 Dominator", "hashrate": " 280Mh/s", "algoritmo": "Scrypt", "rentabilidad": " -$2.24/day"}
+{"modelo": "PinIdea DR-100 Pro", "hashrate": " 21Gh/s", "algoritmo": "X11", "rentabilidad": " -$2.30/day"}
+{"modelo": "MicroBT Whatsminer M33S++", "hashrate": " 242Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.30/day"}
+{"modelo": "Ebang Ebit E11++", "hashrate": " 44Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.32/day"}
+{"modelo": "PinIdea DR-100", "hashrate": " 19Gh/s", "algoritmo": "X11", "rentabilidad": " -$2.32/day"}
+{"modelo": "StrongU STU-U1++", "hashrate": " 52Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.34/day"}
+{"modelo": "Innosilicon T3+ 52T", "hashrate": " 52Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.34/day"}
+{"modelo": "Bitmain Antminer S9 (11.5Th)", "hashrate": " 11.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.36/day"}
+{"modelo": "Innosilicon T2 Turbo 25T", "hashrate": " 25Th/s", "algoritmo": "4 ", "rentabilidad": " -$2.38/day"}
+{"modelo": "Halong Mining DragonMint B29", "hashrate": " 2.1Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.43/day"}
+{"modelo": "Bitmain Antminer S19j (90Th)", "hashrate": " 90Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.44/day"}
+{"modelo": "Bitmain Antminer S9 SE (16Th)", "hashrate": " 16Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.46/day"}
+{"modelo": "StrongU STU-U8", "hashrate": " 46Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.51/day"}
+{"modelo": "Innosilicon A9++ ZMaster", "hashrate": " 140ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$2.55/day"}
+{"modelo": "Bitmain Antminer S9 (12.5Th)", "hashrate": " 12.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.57/day"}
+{"modelo": "Bitmain Antminer DR5 (34Th)", "hashrate": " 34Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.57/day"}
+{"modelo": "Canaan AvalonMiner 821", "hashrate": " 11.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.57/day"}
+{"modelo": "Innosilicon A11 Pro ETH (1500Mh)", "hashrate": " 1.5Gh/s", "algoritmo": "EtHash", "rentabilidad": " -$2.58/day"}
+{"modelo": "Bitmain Antminer T19 (84Th)", "hashrate": " 84Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.61/day"}
+{"modelo": "Ebang Ebit E9", "hashrate": " 6.3Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.62/day"}
+{"modelo": "MicroBT Whatsminer D1", "hashrate": " 48Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.64/day"}
+{"modelo": "Bitmain Antminer V9 (4Th)", "hashrate": " 4Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.65/day"}
+{"modelo": "Canaan AvalonMiner 841", "hashrate": " 13.6Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.67/day"}
+{"modelo": "Innosilicon D9 DecredMaster", "hashrate": " 2.4Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.70/day"}
+{"modelo": "Bitmain Antminer S9i (13Th)", "hashrate": " 13Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.72/day"}
+{"modelo": "Bitmain Antminer S9i (14Th)", "hashrate": " 14Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.72/day"}
+{"modelo": "Obelisk SC1 Immersion", "hashrate": " 2.2Th/s", "algoritmo": "2 ", "rentabilidad": " -$2.72/day"}
+{"modelo": "Bitmain Antminer S9k (13.5Th)", "hashrate": " 13.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.73/day"}
+{"modelo": "Innosilicon T3 43T", "hashrate": " 43Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.74/day"}
+{"modelo": "Bitfily Snow Panther B1", "hashrate": " 16Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.74/day"}
+{"modelo": "Bitmain Antminer S9 (13Th)", "hashrate": " 13Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.74/day"}
+{"modelo": "Canaan AvalonMiner 741", "hashrate": " 7.3Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.75/day"}
+{"modelo": "Bitmain Antminer S9 (13.5Th)", "hashrate": " 13.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.77/day"}
+{"modelo": "Bitmain Antminer S9j (14.5Th)", "hashrate": " 14.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.77/day"}
+{"modelo": "Bitmain Antminer S17 (53Th)", "hashrate": " 53Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.79/day"}
+{"modelo": "Bitmain Antminer S17+ (73Th)", "hashrate": " 73Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.80/day"}
+{"modelo": "MicroBT Whatsminer M30S", "hashrate": " 86Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.80/day"}
+{"modelo": "Innosilicon A9+ ZMaster", "hashrate": " 120ksol/s", "algoritmo": "Equihash", "rentabilidad": " -$2.82/day"}
+{"modelo": "Bitmain Antminer S11 (20.5Th)", "hashrate": " 20.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.83/day"}
+{"modelo": "Bitmain Antminer D5 (119Gh)\t", "hashrate": " 119Gh/s", "algoritmo": "X11", "rentabilidad": " -$2.83/day"}
+{"modelo": "Bitmain Antminer G2", "hashrate": " 220Mh/s", "algoritmo": "EtHash", "rentabilidad": " -$2.84/day"}
+{"modelo": "Bitmain Antminer T19 (88Th)", "hashrate": " 88Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.86/day"}
+{"modelo": "FFMiner DS19", "hashrate": " 3.1Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$2.87/day"}
+{"modelo": "Bitmain Antminer S9 (14Th)", "hashrate": " 14Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.87/day"}
+{"modelo": "Ebang Ebit E9.2", "hashrate": " 12Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.88/day"}
+{"modelo": "Holic H22", "hashrate": " 22Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.92/day"}
+{"modelo": "Canaan AvalonMiner 1246", "hashrate": " 90Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.93/day"}
+{"modelo": "FusionSilicon X1 Miner", "hashrate": " 12.96Gh/s", "algoritmo": "Lyra2REv2", "rentabilidad": " -$2.93/day"}
+{"modelo": "Bitmain Antminer S17 (56Th)", "hashrate": " 56Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.95/day"}
+{"modelo": "MicroBT Whatsminer M21", "hashrate": " 31Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$2.97/day"}
+{"modelo": "Ebang Ebit E11+", "hashrate": " 37Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.02/day"}
+{"modelo": "Halong Mining DragonMint T1", "hashrate": " 16Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.03/day"}
+{"modelo": "Ebang Ebit E9i", "hashrate": " 13.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.05/day"}
+{"modelo": "Ebang Ebit E9+", "hashrate": " 9Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.05/day"}
+{"modelo": "Innosilicon T3 39T", "hashrate": " 39Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.19/day"}
+{"modelo": "Innosilicon T2 Terminator", "hashrate": " 17.2Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.20/day"}
+{"modelo": "StrongU Hornbill H8 Pro", "hashrate": " 84Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.22/day"}
+{"modelo": "Todek Toddminer C1", "hashrate": " 1.55Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$3.22/day"}
+{"modelo": "Bitmain Antminer D3 (15Gh)", "hashrate": " 15Gh/s", "algoritmo": "X11", "rentabilidad": " -$3.24/day"}
+{"modelo": "Bitmain Antminer T17 (40Th)", "hashrate": " 40Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.26/day"}
+{"modelo": "Bitmain Antminer T9 (11.5Th)", "hashrate": " 11.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.29/day"}
+{"modelo": "Dayun Zig Z1+", "hashrate": " 7.25Gh/s", "algoritmo": "Lyra2REv2", "rentabilidad": " -$3.31/day"}
+{"modelo": "Ebang Ebit E11", "hashrate": " 30Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.31/day"}
+{"modelo": "Dayun Zig Z1", "hashrate": " 6.8Gh/s", "algoritmo": "Lyra2REv2", "rentabilidad": " -$3.32/day"}
+{"modelo": "Bitmain Antminer T9+ (10.5Th)", "hashrate": " 10.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.32/day"}
+{"modelo": "Innosilicon D9+ DecredMaster", "hashrate": " 2.8Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$3.33/day"}
+{"modelo": "Ebang Ebit E12+", "hashrate": " 50Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.35/day"}
+{"modelo": "Canaan AvalonMiner 921", "hashrate": " 20Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.36/day"}
+{"modelo": "Bitmain Antminer S7", "hashrate": " 4.73Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.36/day"}
+{"modelo": "Ebang Ebit E10", "hashrate": " 18Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.37/day"}
+{"modelo": "Bitmain Antminer S17e (64Th)", "hashrate": " 64Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.37/day"}
+{"modelo": "Innosilicon A5+ DashMaster", "hashrate": " 65Gh/s", "algoritmo": "X11", "rentabilidad": " -$3.40/day"}
+{"modelo": "Bitmain Antminer D3 (17.5Gh)", "hashrate": " 17.5Gh/s", "algoritmo": "X11", "rentabilidad": " -$3.44/day"}
+{"modelo": "StrongU STU-U8 Pro", "hashrate": " 60Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.45/day"}
+{"modelo": "Bitmain Antminer DR3", "hashrate": " 7.8Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$3.46/day"}
+{"modelo": "MicroBT Whatsminer M31S+", "hashrate": " 80Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.52/day"}
+{"modelo": "Bitmain Antminer S19 Hydro (158Th)", "hashrate": " 158Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.55/day"}
+{"modelo": "Bitmain Antminer T19 Hydro (158Th)", "hashrate": " 158Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.55/day"}
+{"modelo": "Canaan AvalonMiner 1166 Pro", "hashrate": " 81Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.56/day"}
+{"modelo": "Bitmain Antminer T9 (12.5Th)", "hashrate": " 12.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.58/day"}
+{"modelo": "Bitmain Antminer S9 Hydro (18Th)", "hashrate": " 18Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.59/day"}
+{"modelo": "Bitmain Antminer D3 (19.3Gh)", "hashrate": " 19.3Gh/s", "algoritmo": "X11", "rentabilidad": " -$3.62/day"}
+{"modelo": "MicroBT Whatsminer M10", "hashrate": " 33Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.64/day"}
+{"modelo": "Bitmain Antminer A3 (815Gh)", "hashrate": " 815Gh/s", "algoritmo": "Blake2B", "rentabilidad": " -$3.65/day"}
+{"modelo": "iBeLink BM-N1", "hashrate": " 6.6Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$3.70/day"}
+{"modelo": "StrongU STU-U1", "hashrate": " 11Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$3.76/day"}
+{"modelo": "GMO miner B2", "hashrate": " 24Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.77/day"}
+{"modelo": "MicroBT Whatsminer M31S", "hashrate": " 76Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.79/day"}
+{"modelo": "Ebang Ebit E12", "hashrate": " 44Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.82/day"}
+{"modelo": "Ebang Ebit E9.3", "hashrate": " 16Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.84/day"}
+{"modelo": "Innosilicon T2 Turbo", "hashrate": " 24Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.86/day"}
+{"modelo": "Innosilicon T2 Turbo+ 32T", "hashrate": " 32Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.87/day"}
+{"modelo": "Innosilicon S11 SiaMaster", "hashrate": " 4.3Th/s", "algoritmo": "Blake2B", "rentabilidad": " -$3.88/day"}
+{"modelo": "Halong Mining DragonMint B52", "hashrate": " 3.83Th/s", "algoritmo": "Blake2B", "rentabilidad": " -$3.89/day"}
+{"modelo": "Holic H28", "hashrate": " 28Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.89/day"}
+{"modelo": "StrongU Hornbill H8", "hashrate": " 74Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$3.90/day"}
+{"modelo": "Bitmain Antminer K5 (1130Gh)", "hashrate": " 1.13Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$4.00/day"}
+{"modelo": "Canaan AvalonMiner 1047", "hashrate": " 37Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.01/day"}
+{"modelo": "iPollo B1L", "hashrate": " 60Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.03/day"}
+{"modelo": "Innosilicon T2 Turbo 26T", "hashrate": " 26Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.05/day"}
+{"modelo": "Dayun Zig Z1 Pro", "hashrate": " 13Gh/s", "algoritmo": "Lyra2REv2", "rentabilidad": " -$4.05/day"}
+{"modelo": "Bolon Miner B11", "hashrate": " 70Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.12/day"}
+{"modelo": "Bitfily Snow Panther B1+", "hashrate": " 24.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.16/day"}
+{"modelo": "Bitmain Antminer T17+ (64Th)", "hashrate": " 64Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.29/day"}
+{"modelo": "Bitmain Antminer T17e (53Th)", "hashrate": " 53Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.32/day"}
+{"modelo": "Innosilicon T2 Turbo 29T/30T", "hashrate": " 30Th/s", "algoritmo": "2 ", "rentabilidad": " -$4.34/day"}
+{"modelo": "StrongU STU-U1+", "hashrate": " 12.8Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$4.34/day"}
+{"modelo": "MicroBT Whatsminer M20S", "hashrate": " 68Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.45/day"}
+{"modelo": "StrongU STU-U2", "hashrate": " 7Th/s", "algoritmo": "Blake2B", "rentabilidad": " -$4.45/day"}
+{"modelo": "Bitmain Antminer T19 Hydro (145Th)", "hashrate": " 145Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.51/day"}
+{"modelo": "Aisen A1 Pro", "hashrate": " 23Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.57/day"}
+{"modelo": "Canaan AvalonMiner 1146 Pro", "hashrate": " 63Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.59/day"}
+{"modelo": "Canaan AvalonMiner 1126 Pro", "hashrate": " 68Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.62/day"}
+{"modelo": "MicroBT Whatsminer M32S", "hashrate": " 66Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.81/day"}
+{"modelo": "MicroBT Whatsminer M3", "hashrate": " 12Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.84/day"}
+{"modelo": "MicroBT Whatsminer M32", "hashrate": " 62Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.87/day"}
+{"modelo": "MicroBT Whatsminer M3X", "hashrate": " 12.5Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.94/day"}
+{"modelo": "Innosilicon T2 Turbo HF+", "hashrate": " 33Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$4.95/day"}
+{"modelo": "Spondoolies SPx36", "hashrate": " 540Gh/s", "algoritmo": "X11", "rentabilidad": " -$5.06/day"}
+{"modelo": "Innosilicon T3 50T", "hashrate": " 50Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$5.08/day"}
+{"modelo": "Innosilicon T3+ 57T", "hashrate": " 57Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$5.12/day"}
+{"modelo": "iBeLink DM56G", "hashrate": " 56Gh/s", "algoritmo": "X11", "rentabilidad": " -$5.26/day"}
+{"modelo": "MicroBT Whatsminer M21S", "hashrate": " 56Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$5.37/day"}
+{"modelo": "iBeLink DSM7T", "hashrate": " 7Th/s", "algoritmo": "2 ", "rentabilidad": " -$5.51/day"}
+{"modelo": "Canaan AvalonMiner 1066", "hashrate": " 50Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$5.51/day"}
+{"modelo": "Bitfily Snow Panther D1", "hashrate": " 6Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$5.59/day"}
+{"modelo": "iBeLink DSM6T", "hashrate": " 6Th/s", "algoritmo": "Blake256R14", "rentabilidad": " -$5.59/day"}
+{"modelo": "Dayun Zig D1", "hashrate": " 48Gh/s", "algoritmo": "X11", "rentabilidad": " -$5.66/day"}
+{"modelo": "MicroBT Whatsminer M10S", "hashrate": " 55Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$5.85/day"}
+{"modelo": "Todek Toddminer C1 PRO", "hashrate": " 3Th/s", "algoritmo": "Eaglesong", "rentabilidad": " -$6.32/day"}
+{"modelo": "GMO miner B3", "hashrate": " 33Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$7.30/day"}
+{"modelo": "Hummer Miner Mars H1", "hashrate": " 88Gh/s", "algoritmo": "Handshake", "rentabilidad": " -$7.90/day"}
+{"modelo": "Ebang Ebit E10D", "hashrate": " 25Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$8.16/day"}
+{"modelo": "Bitfily Snow Panther A1", "hashrate": " 49Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$11.78/day"}
+{"modelo": "Pantech WX6", "hashrate": " 34Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$11.79/day"}
+{"modelo": "Bitfury Tardis", "hashrate": " 80Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$11.99/day"}
+{"modelo": "Bitfury B8", "hashrate": " 49Th/s", "algoritmo": "SHA-256", "rentabilidad": " -$14.66/day"}
