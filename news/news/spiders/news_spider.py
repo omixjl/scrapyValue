@@ -2,13 +2,22 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
+from random_user_agent.user_agent import UserAgent
+from random_user_agent.params import SoftwareName, OperatingSystem
+
 import scrapy
+
 
 class NewsSpider(scrapy.Spider):
     name = "news"
 
     def start_requests(self):
-        headers= {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
+        software_names = [SoftwareName.CHROME.value]
+        operating_systems = [OperatingSystem.WINDOWS.value, OperatingSystem.LINUX.value]
+        user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
+        #headers= {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
+        
+        #headers = {'User-Agent': user_agent_rotator.get_random_user_agent()}
         urls = [
             'https://es.beincrypto.com/mineria/',
             'https://www.criptonoticias.com/categorias/mineria/',
@@ -17,11 +26,11 @@ class NewsSpider(scrapy.Spider):
         ]
         for url in urls:
             if 'beincrypto' in url:
-                yield scrapy.Request(url=url, headers=headers, callback=self.parse_bein)
+                yield scrapy.Request(url=url, callback=self.parse_bein)
             elif 'criptonoticias' in url:
-               yield scrapy.Request(url=url, headers=headers, callback=self.parse_cripto)
+               yield scrapy.Request(url=url, callback=self.parse_cripto)
             elif 'cointelegraph' in url:
-                yield scrapy.Request(url=url, headers=headers, callback=self.parse_coin)
+                yield scrapy.Request(url=url,  callback=self.parse_coin)
             
     def parse_bein(self, response):  
         for bein in response.xpath('//html/body/div[2]/div[2]/main/div[2]/div'):
