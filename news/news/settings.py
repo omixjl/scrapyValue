@@ -25,7 +25,7 @@ user_agent_rotator = UserAgent(software_names=software_names, operating_systems=
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "news (+http://www.yourdomain.com)"
 
-#USER_AGENT = user_agent_rotator.get_random_user_agent()
+USER_AGENT = user_agent_rotator.get_random_user_agent()
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 

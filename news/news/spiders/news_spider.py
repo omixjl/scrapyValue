@@ -26,12 +26,13 @@ class NewsSpider(scrapy.Spider):
         ]
         for url in urls:
             if 'beincrypto' in url:
-                yield scrapy.Request(url=url, callback=self.parse_bein)
+               yield scrapy.Request(url=url, callback=self.parse_bein)
+            elif 'cointelegraph' in url:
+                yield scrapy.Request(url=url,  callback=self.parse_coin)    
             elif 'criptonoticias' in url:
                yield scrapy.Request(url=url, callback=self.parse_cripto)
-            elif 'cointelegraph' in url:
-                yield scrapy.Request(url=url,  callback=self.parse_coin)
-            
+           
+        
     def parse_bein(self, response):  
         for bein in response.xpath('//html/body/div[2]/div[2]/main/div[2]/div'):
             imagen = bein.xpath('.//a/figure/img/@data-src').get()
@@ -54,8 +55,8 @@ class NewsSpider(scrapy.Spider):
             'Imagen': imagen,
             'Contenido': content
         }      
-    
      
+    
     def parse_cripto(self, response):       
         for cripto in response.xpath('//html/body/div[3]/div[5]/div/div[1]/div[2]/div/div[4]/div[1]/div/div[2]/div/div[1]/div[1]/article'): 
             yield{
@@ -64,13 +65,18 @@ class NewsSpider(scrapy.Spider):
             'Contenido': cripto.xpath('.//div[2]/div[2]/p[1]/text()').extract_first(), 
         }
     
+    
     def parse_coin(self, response):       
-          for coin in response.xpath('//*[@id="__layout"]/div/div[1]/main/div/div/div[3]/div[1]/div/ul/li'):
+          for coin in response.css('#__layout > div > div.layout__wrp > main > div > div > div.tag-page__rows > div.tag-page__posts-col > div > ul > li'):
             
             yield{
-            'Titulo': coin.xpath('//article/div/div[1]/a/span/text()').get(),
-            'Imagen': coin.xpath('//article/a/figure/div/img/@data-src').get(),
-            'Contenido': coin.xpath('//article/div/p/text()').extract_first(),
+            'Titulo': coin.css('article > div > div.post-card-inline__header > a > span::text').get(),
+            'Imagen': coin.css('article > a > figure > div > img::attr(data-src)').get(),
+            'Contenido': coin.css('article > div > p::text').get(),
         }
+            
+    
+    
+    
             
               
