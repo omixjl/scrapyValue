@@ -19,3 +19,5 @@ class NewsPipeline:
            line = json.dumps(ItemAdapter(item).asdict(), ensure_ascii=False) + "\n"
            self.file.write(line)
            return item
+         
+         
